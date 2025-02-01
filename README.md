@@ -43,10 +43,4 @@
 
 ###
 
-<h1 align="left"></h1>
-
-###
-
 <img src="https://raw.githubusercontent.com/void-nil/void-nil/output/snake.svg" alt="Snake animation" />
-
-###
