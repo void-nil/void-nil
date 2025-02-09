@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mustafa and I'm interested in building and developing things. If I was in the past I would have been a blacksmith or a woodworker maybe ...</p>
+<p align="left">My name is Mustafa and I'm interested in building and developing things. If I was in the past I would have been a blacksmith or a woodworker.</p>
 
 ###
 
