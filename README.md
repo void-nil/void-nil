@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Joined in 2024<br>📚 I'm currently learning front-end<br>🎯 Goals: idk<br>🎲 Fun fact: Started coding a little at 11 years</p>
+<p align="left">✨ First script in roblox studio<br>🎯 Goals: idk<br>🎲 Fun fact: Started coding a little at 11 years</p>
 
 ###
 
